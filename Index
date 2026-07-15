@@ -9,7 +9,7 @@
   <link
     href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap"
     rel="stylesheet">
-  <link rel="stylesheet" href="Css/Bluewhite.css">
+  <link rel="stylesheet" href="Bluewhite.css">
 </head>
 
 <body>
@@ -56,7 +56,7 @@ Vehicle Dispatch Systems and responsive UI development.
 
     <div class="hero-ctas">
       <a href="#projects" class="btn btn-primary">View Projects ↓</a>
-      <a href="Resume/resume.pdf" target="_blank" class="btn btn-outline">View Resume</a>
+      <a href="resume.pdf" target="_blank" class="btn btn-outline">View Resume</a>
       <a href="#contact" class="btn btn-outline">
     Get In Touch
 </a>
@@ -527,7 +527,7 @@ Government emergency response platform providing vehicle dispatch, complaint man
             💼 LinkedIn
         </a>
 
-        <a href="Resume/resume.pdf" target="_blank" class="btn btn-outline">
+        <a href="resume.pdf" target="_blank" class="btn btn-outline">
             📄 Download Resume
         </a>
 
